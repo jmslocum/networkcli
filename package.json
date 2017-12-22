@@ -1,0 +1,15 @@
+{
+  "name": "network",
+  "version": "1.0.0",
+  "description": "Graph network activity on the command line",
+  "main": "network.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Slocum",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.5"
+  }
+}
